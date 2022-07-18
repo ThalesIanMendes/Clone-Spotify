@@ -13,6 +13,7 @@ interfaces web - The Power of ReactJS
 - ✔️ TailwindCSS.
 - ✔️ Reactjs.
 - ✔️ Vite.
+- ✔️ Phosphor Icons
 
  <3 
 ## 😃 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/thales-ian-carlesso-975014214/)
